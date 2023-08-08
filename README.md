@@ -1,4 +1,4 @@
-# zulp
+# zulp - dead simple zsh plugin manager
 
 ![zulp recording](https://raw.githubusercontent.com/Karta775/zulp/main/recording.gif)
 
