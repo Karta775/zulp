@@ -1,8 +1,7 @@
 # zulp
-Dead simple zsh plugin manager
+
 ![zulp recording](https://raw.githubusercontent.com/Karta775/zulp/main/recording.gif)
 
-The next time you start a new terminal session your plugins will be installed and ready to use.
 ## Installation
 ```shell
 git clone https://github.com/Karta775/zulp.git ~/.zulp
@@ -16,4 +15,5 @@ source ~/.zulp/init.zsh
 zulp 'zsh-users/zsh-autosuggestions'
 zulp 'jeffreytse/zsh-vi-mode'
 ```
+When you add a new `zulp ...` line to your zshrc, the next time zsh starts it will clone the plugin repository and install the plugin. And that's literally it, now you just enjoy your plugins.
 
