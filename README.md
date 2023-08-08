@@ -1,5 +1,6 @@
 # zulp
 Dead simple zsh plugin manager
+![zulp recording](https://raw.githubusercontent.com/Karta775/zulp/main/recording.gif)
 
 The next time you start a new terminal session your plugins will be installed and ready to use.
 ## Installation
